@@ -4,4 +4,4 @@ cmake --build _builds
 cmake --build _builds --target test -- ARGS=--verbose
 _builds/example
 ```
-[![Build Status](https://travis-ci.org/Ivanopulopulo/stack2.svg?branch=master)](https://travis-ci.org/Ivanopulopulo/stack2)
+[![Build Status](https://travis-ci.org/notorious01/stack-2.0.svg?branch=master)](https://travis-ci.org/notorious01/stack-2.0)
