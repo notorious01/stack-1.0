@@ -13,7 +13,7 @@ TEST_CASE("push")
 TEST_CASE("pop") 
 {
     stack<int> Stack;
-    Stack.push(5);
+    Stack.push(3);
     Stack.push(7);
     Stack.push(9);
     Stack.pop();
